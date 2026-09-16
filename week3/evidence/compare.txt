@@ -1,0 +1,12 @@
+L=64 T=2.3 Metropolis mean_abs_M 0.45811854 block_bootstrap_se 0.01831323
+L=64 T=2.3 Wolff mean_abs_M 0.43558637 block_bootstrap_se 0.00221924
+agreement_d 1.22144069
+agreement_status provisional (block-length stability still requires checking)
+Metropolis tau_sweeps 735.25914224
+Wolff tau_moves 4.82267223
+Wolff mean_cluster_size 935.77357000
+Wolff tau_work 1.10178936
+work_ratio_metropolis_over_wolff 667.33186047
+Wolff T_peak_L32 2.34852597
+Wolff T_peak_L64 2.31187457
+Wolff Tc_extrapolated 2.27522317
