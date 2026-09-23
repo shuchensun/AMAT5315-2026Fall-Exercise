@@ -1,0 +1,31 @@
+{
+  "0.02": {
+    "relative_omega_error_vs_dt_0.0025": 4.749994921538635e-05
+  },
+  "0.0125": {
+    "relative_omega_error_vs_dt_0.0025": 7.108784779234551e-06
+  },
+  "0.01": {
+    "relative_omega_error_vs_dt_0.0025": 2.8899465796712475e-06
+  },
+  "0.0025": {
+    "relative_omega_error_vs_dt_0.0025": 0.0,
+    "reference": true
+  },
+  "fit_slope": 4.0391863504612635,
+  "richardson": {
+    "base_fine_step": 0.01,
+    "coarse_step": 0.02,
+    "estimated_error_at_0.01": 2.978640025662783e-06,
+    "candidate_predicted_errors": {
+      "0.02": 4.765824041060453e-05,
+      "0.0125": 7.272070375153278e-06,
+      "0.01": 2.978640025662783e-06
+    },
+    "predicted_error_at_selected_step": 2.978640025662783e-06,
+    "measured_error_vs_reference": 2.8899465796712475e-06,
+    "tolerance": 5e-06,
+    "selected_step": 0.01,
+    "coarse_fine_difference_relative": 4.467960038494174e-05
+  }
+}
